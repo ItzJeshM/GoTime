@@ -1,3 +1,5 @@
+# To run files: go run HelloWorld.go
+
 package main
 
 import "fmt"
