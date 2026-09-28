@@ -1,4 +1,4 @@
-# To run files: go run HelloWorld.go
+// To run files: go run HelloWorld.go
 
 package main
 
